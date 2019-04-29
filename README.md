@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/alphafoobar/code-kata-erlang.svg?branch=master)](https://travis-ci.com/alphafoobar/code-kata-erlang)
+
 # Code Kata - Erlang!
 
 Erlang is a functional language developed by Ericsson to handle telecommunications over exchanges. Erlang runs on the
@@ -14,8 +16,9 @@ In JVM technologies, Erlang is most similar to Scala Play.
  See Getting started with [Erlang and Intellij](https://www.jetbrains.com/help/idea/getting-started-with-erlang.html#d976066e95)
  
  You must also:
- * Install Erlang
- * Build Rebar
+ * Install Erlang `brew install erlang`
+ * Build Rebar 
+ 
 
 # How to `hello world` Erlang
 

@@ -1,4 +1,4 @@
--module(kata02_binary_search).
+-module(binary_search).
 
 %% API
 -export([chop/2]).

@@ -1,4 +1,4 @@
--module(kata02_binary_search_test).
+-module(binary_search_test).
 
 -include_lib("eunit/include/eunit.hrl").
 
