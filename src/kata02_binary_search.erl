@@ -3,6 +3,8 @@
 %% API
 -export([chop/2]).
 
+-spec chop(integer(), list(integer())) -> integer().
+
 chop(Key, Array) ->
   Length = length(Array),
   if
